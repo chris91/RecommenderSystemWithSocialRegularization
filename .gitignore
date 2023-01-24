@@ -1,0 +1,11 @@
+# Project exclude paths
+
+.idea
+
+movielens_movies.csv
+movielens_ratings.csv
+youtube_ungraph.csv
+
+*.db
+*.pyc
+
